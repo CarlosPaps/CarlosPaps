@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarlosPaps
 - 👀 I’m interested in work in the area!
-- 🌱 I’m currently learning Python
+- 🌱 HTML,CSS, JAVASCRIPT and I’m currently learning React and Python!
 - 📫 Reach me in carlospapaleo2@gmail.com
 
 <!---
